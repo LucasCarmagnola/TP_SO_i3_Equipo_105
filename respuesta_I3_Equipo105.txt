@@ -18,3 +18,13 @@ git clone -b Carmagnola https://github.com/LucasCarmagnola/TP_SO_i3_Equipo_105.g
 git add beta.txt
 git commit -m "GAMMA paso 7"
 git push origin Carmagnola
+ALFA:
+g-
+ifconfig (en la máquina Linux)
+git fetch origin
+git checkout Carmagnola
+(realizo los cambios en el archivo agragando los datos del ifconfig)
+git add .
+git commit -m "ALFA paso 8"
+git push origin Carmagnola
+
