@@ -8,5 +8,13 @@ G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedid
 
 BETA:
 a- El master queda con todos los archivos despues de estos cambios.
-b- Si, pude ver todos los cambios
-c- git merge Jimenez  (Aunque lo hicimos directamente desde github)
+b- Si, pude ver todos los cambios.
+c- git merge Jimenez  (Aunque lo hicimos directamente desde github).
+GAMMA:
+d- Si se hace una pull request y un merge respecto de la rama que este más actualizada (main en nuestro caso), si.
+e- Ningun problema.
+f- 
+git clone -b Carmagnola https://github.com/LucasCarmagnola/TP_SO_i3_Equipo_105.git (carpeta nueva)
+git add beta.txt
+git commit -m "GAMMA paso 7"
+git push origin Carmagnola
