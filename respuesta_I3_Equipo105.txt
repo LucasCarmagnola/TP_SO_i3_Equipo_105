@@ -1,0 +1,12 @@
+a-¿Como queda El master después de estos cambios?
+b-¿Beta pudo ver todos los cambios que se realizaron?
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+BETA:
+a- El master queda con todos los archivos despues de estos cambios.
+b- Si, pude ver todos los cambios
+c- git merge Jimenez  (Aunque lo hicimos directamente desde github)
